@@ -1,0 +1,13 @@
+D:\30_Prototype\04_Xamarin\NSWebView\NSWebView\bin\Release\netstandard2.0\NSWebView.deps.json
+D:\30_Prototype\04_Xamarin\NSWebView\NSWebView\bin\Release\netstandard2.0\NSWebView.dll
+D:\30_Prototype\04_Xamarin\NSWebView\NSWebView\bin\Release\netstandard2.0\ref\NSWebView.dll
+D:\30_Prototype\04_Xamarin\NSWebView\NSWebView\bin\Release\netstandard2.0\NSWebView.pdb
+D:\30_Prototype\04_Xamarin\NSWebView\NSWebView\obj\Release\netstandard2.0\NSWebView.csprojAssemblyReference.cache
+D:\30_Prototype\04_Xamarin\NSWebView\NSWebView\obj\Release\netstandard2.0\App.xaml.g.cs
+D:\30_Prototype\04_Xamarin\NSWebView\NSWebView\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+D:\30_Prototype\04_Xamarin\NSWebView\NSWebView\obj\Release\netstandard2.0\NSWebView.AssemblyInfoInputs.cache
+D:\30_Prototype\04_Xamarin\NSWebView\NSWebView\obj\Release\netstandard2.0\NSWebView.AssemblyInfo.cs
+D:\30_Prototype\04_Xamarin\NSWebView\NSWebView\obj\Release\netstandard2.0\XamlC.stamp
+D:\30_Prototype\04_Xamarin\NSWebView\NSWebView\obj\Release\netstandard2.0\NSWebView.dll
+D:\30_Prototype\04_Xamarin\NSWebView\NSWebView\obj\Release\netstandard2.0\ref\NSWebView.dll
+D:\30_Prototype\04_Xamarin\NSWebView\NSWebView\obj\Release\netstandard2.0\NSWebView.pdb
